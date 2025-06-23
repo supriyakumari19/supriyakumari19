@@ -22,7 +22,7 @@
 - 🔠 [WordCounter](https://github.com/supriyakumari19/WordCounter.git)  
   A simple Java application to count words, characters, and lines from a file or input text.
 
-- ❓ [Quiz](https://github.com/supriyakumari19/quiz-app-html)  
+- ❓ [Quiz](https://github.com/supriyakumari19/Quiz.git)  
   A responsive web-based quiz with multiple choice questions and score tracking.
 
 ---
