@@ -19,7 +19,7 @@
 ---
 
 📌 **Projects**  
-- 🔠 [WordCounter](https://github.com/supriyakumari19/word-counter-java)  
+- 🔠 [WordCounter](https://github.com/supriyakumari19/WordCounter.git)  
   A simple Java application to count words, characters, and lines from a file or input text.
 
 - ❓ [Quiz](https://github.com/supriyakumari19/quiz-app-html)  
