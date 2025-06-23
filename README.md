@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there 👋 I'm Supriya Kumari
 
-<!--
-**supriyakumari19/supriyakumari19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student | 💻 Aspiring Software Developer  
+🚀 Passionate about solving problems and contributing.
+---
 
-Here are some ideas to get you started:
+🧠 **Currently Learning**  
+- Data Structures and Algorithms (Java)  
+- Building real-world projects with HTML, CSS, and JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack & Core Skills**  
+- Programming: Java, OOP, DSA  
+- Frontend: HTML, CSS, JavaScript  
+- CS Fundamentals: DBMS, OS, Computer Networks  
+- Tools: Git, GitHub, VS Code
+
+---
+
+📌 **Projects**  
+- 🔠 [Word Counter in Java](https://github.com/supriyakumari19/word-counter-java)  
+  A simple Java application to count words, characters, and lines from a file or input text.
+
+- ❓ [Quiz(HTML)](https://github.com/supriyakumari19/quiz-app-html)  
+  A responsive web-based quiz with multiple choice questions and score tracking.
+
+---
+
+📫 **Connect with me**  
+- [LinkedIn](https://linkedin.com/in/supriya-kumari-hit)  
+- 📧 supriyanandan1111@gmail.com
+
+---
+
+🌱 _“Learning never stops. One project, one problem at a time.”_
+
